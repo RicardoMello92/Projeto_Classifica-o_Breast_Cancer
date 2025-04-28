@@ -3,7 +3,8 @@
 
 Este projeto explora técnicas de **aprendizado supervisionado** voltadas para **classificação** de dados, utilizando algoritmos de Machine Learning e estratégias de otimização de desempenho.
 
-##Objetivos e Dados utilizados##
+## Objetivos e Dados utilizados
+
 O dataset é composto por informações extraídas de imagens digitalizadas de exames  de massas mamárias. Para cada amostra (ou seja, cada massa mamária), foram calculadas diversas características dos núcleos celulares presentes na imagem. O objetivo deste projeto é utilizar os dados para que modelos de machine learning de Classificação sejam treinados para prever se um tumor é maligno ou benigno com base nessas características.
 
 
